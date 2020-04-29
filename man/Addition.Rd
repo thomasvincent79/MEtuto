@@ -22,4 +22,5 @@ Calculs basiques
 }
 \examples{
 Addition(4,7)
+Multiplication(3,6)
 }
