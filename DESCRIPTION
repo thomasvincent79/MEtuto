@@ -10,6 +10,8 @@ Authors@R:
 Description: Show exemples for the creation of a package.
 License: `use_mit_license()`, `use_gpl3_license()` or friends to
     pick a license
+Imports: 
+    glue
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
