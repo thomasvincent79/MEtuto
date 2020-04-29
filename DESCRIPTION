@@ -8,8 +8,7 @@ Authors@R:
            email = "Met@gmail.com",
            comment = c(ORCID = "YOUR-ORCID-ID"))
 Description: Show exemples for the creation of a package.
-License: `use_mit_license()`, `use_gpl3_license()` or friends to
-    pick a license
+License: GPL-3
 Imports: 
     glue
 Encoding: UTF-8
