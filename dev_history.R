@@ -1,4 +1,5 @@
 library(devtools)
+library(testthat)
 
 usethis::use_git()
 #ajout fonction FirstFonction
@@ -33,3 +34,9 @@ use_github()
 
 use_github_links()
 use_tidy_description() #pour placer les URL correctements
+
+use_testthat()
+use_test("Firstfonction")
+use_tidy_description()
+
+test()
