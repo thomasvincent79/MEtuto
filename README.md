@@ -3,8 +3,13 @@
 
 # MEtuto
 
+MEtuto <img src='man/figures/logo.png' align="right" height="80" />
+
 <!-- badges: start -->
 
+[![Lifecycle:
+experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://www.tidyverse.org/lifecycle/#experimental)
+[![](https://img.shields.io/github/last-commit/thomasvincent79/MEtuto.svg)](https://github.com/thomasvincent79/MEtuto/commits/master)
 <!-- badges: end -->
 
 The goal of MEtuto is to …
