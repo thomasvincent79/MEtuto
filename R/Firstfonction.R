@@ -14,6 +14,7 @@ Addition<-function(x,y){
 }
 
 #' @rdname Addition
+#' @export
 Multiplication <- function(x, y){
   x*y
 }
