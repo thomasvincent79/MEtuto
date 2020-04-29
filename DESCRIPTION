@@ -9,6 +9,8 @@ Authors@R:
            comment = c(ORCID = "YOUR-ORCID-ID"))
 Description: Show exemples for the creation of a package.
 License: GPL-3
+URL: https://github.com/thomasvincent79/MEtuto
+BugReports: https://github.com/thomasvincent79/MEtuto/issues
 Imports: 
     glue
 Encoding: UTF-8

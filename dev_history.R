@@ -18,3 +18,18 @@ load_all()
 document()
 use_tidy_description()
 attachment::att_to_description()
+
+use_build_ignore("dev_history.R")
+
+use_gpl3_license("Thomas Vincent")
+
+check()
+install()
+build()
+
+goodpractice::goodpractice()
+
+use_github()
+
+use_github_links()
+use_tidy_description() #pour placer les URL correctements
