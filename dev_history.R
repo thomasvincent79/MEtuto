@@ -44,3 +44,26 @@ test()
 use_spell_check()
 
 use_readme_rmd()
+
+# rajout d'un logo sur le readme
+use_logo("../logoagro.png")
+# on copie mtn le lien dans le read me a la place du nom et au dessus des badges
+
+# On rajoute un badge indiquant l'etat du package
+use_lifecycle_badge("experimental")
+badger::badge_last_commit()
+
+badgecreatr::badge_license()
+
+#use_news_md creation d'un fichier news ou on mettra les evolutions du package
+
+use_vignette("info")
+
+use_github_action_check_release()
+covr::package_coverage()
+use_package_doc()
+
+load_all()
+document()
+use_tidy_description()
+attachment::att_to_description()
