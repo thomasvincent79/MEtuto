@@ -1,6 +1,5 @@
 #' Nbjourdupackage
 #'
-#'
 #' @return Le nombre de jour depuis que le package a ete cree
 #' @export
 #' @importFrom glue glue

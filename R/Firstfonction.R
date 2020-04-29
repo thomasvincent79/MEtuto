@@ -8,8 +8,9 @@
 #'
 #' @examples
 #' Addition(4,7)
+#' Multiplication(3,6)
 Addition<-function(x,y){
-  x+y
+        x+y
 }
 
 #' @rdname Addition
