@@ -42,3 +42,5 @@ use_tidy_description()
 test()
 
 use_spell_check()
+
+use_readme_rmd()
